@@ -1,0 +1,44 @@
+[
+    {
+        "room_number": "101",
+        "room_type": "Standard",
+        "price_per_night": 1200,
+        "is_booked": false
+    },
+    {
+        "room_number": "102",
+        "room_type": "Standard",
+        "price_per_night": 1200,
+        "is_booked": false
+    },
+    {
+        "room_number": "103",
+        "room_type": "Standard",
+        "price_per_night": 1200,
+        "is_booked": false
+    },
+    {
+        "room_number": "201",
+        "room_type": "Deluxe",
+        "price_per_night": 2200,
+        "is_booked": false
+    },
+    {
+        "room_number": "202",
+        "room_type": "Deluxe",
+        "price_per_night": 2200,
+        "is_booked": false
+    },
+    {
+        "room_number": "301",
+        "room_type": "Suite",
+        "price_per_night": 4000,
+        "is_booked": false
+    },
+    {
+        "room_number": "302",
+        "room_type": "Suite",
+        "price_per_night": 4000,
+        "is_booked": true
+    }
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "booking_id": "BK0001",
+        "customer_name": "Misbahul Siraj",
+        "phone": "8918899729",
+        "room_number": "302",
+        "room_type": "Suite",
+        "check_in_date": "2026-09-07",
+        "nights": 3,
+        "total_bill": 12000,
+        "status": "Checked-In"
+    }
+]
